@@ -1,0 +1,9 @@
+html {
+    font-family: 'Tenali Ramakrishna', sans-serif;
+}
+
+.App {
+    display: flex;
+    text-align: center;
+    font-size: x-large;
+}
